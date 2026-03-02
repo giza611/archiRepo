@@ -449,12 +449,147 @@ export const ADDONS: AddOn[] = [
     tags: ["Modeling", "Hungary"]
   },
   {
-    name: "Ci Tools",
+    name: "Annotate",
     company: "Central Innovation",
-    description: "Comprehensive productivity suite for Archicad including advanced doors/windows, stairs, roofs, scheduling tools, and workflow automation for Australian and New Zealand architects.",
+    description: "With the Ci Annotate tool, effortlessly manage text case in Archicad.",
     price: "Paid",
     link: "https://centralinnovation.com/aec/productivity/ci-tools",
-    thumbnail: "https://placehold.co/400x250/3498db/FFF?text=Ci+Tools",
+    thumbnail: "https://cglcadimage.blob.core.windows.net/emailmedia/logos/annot_400x250.png",
+    tags: ["Productivity", "Modeling", "Paid", "Australia", "New Zealand"]
+  },
+  {
+    name: "Cabinets",
+    company: "Central Innovation",
+    description: "Simplify your cabinetry modeling with a single, highly-configurable object instead of using separate objects for each cabinet type and shape.",
+    price: "Paid",
+    link: "https://centralinnovation.com/aec/productivity/ci-tools",
+    thumbnail: "https://cglcadimage.blob.core.windows.net/emailmedia/logos/cabs_400x250.png",
+    tags: ["Productivity", "Modeling", "Paid", "Australia", "New Zealand"]
+  },
+  {
+    name: "Coverings",
+    company: "Central Innovation",
+    description: "Apply 3D modeled skins to walls, slabs, columns, and roofs in both 2D and 3D views for added realism and detail.",
+    price: "Paid",
+    link: "https://centralinnovation.com/aec/productivity/ci-tools",
+    thumbnail: "https://cglcadimage.blob.core.windows.net/emailmedia/logos/covs_400x250.png",
+    tags: ["Productivity", "Modeling", "Paid", "Australia", "New Zealand"]
+  },
+  {
+    name: "Doors+Windows",
+    company: "Central Innovation",
+    description: "Discover boundless design possibilities with the Ci Doors+Windows Tool, offering an extensive range of door and window styles featuring diverse panels, opening methods, trims, and sills.",
+    price: "Paid",
+    link: "https://centralinnovation.com/aec/productivity/ci-tools",
+    thumbnail: "https://cglcadimage.blob.core.windows.net/emailmedia/logos/daw_400x250.png",
+    tags: ["Productivity", "Modeling", "Paid", "Australia", "New Zealand"]
+  },
+  {
+    name: "Detail Elements",
+    company: "Central Innovation",
+    description: "This advanced tool simplifies your work by offering a comprehensive library of smart parametric 2D objects that can be effortlessly dragged and dropped into your projects.",
+    price: "Paid",
+    link: "https://centralinnovation.com/aec/productivity/ci-tools",
+    thumbnail: "https://cglcadimage.blob.core.windows.net/emailmedia/logos/det_400x250.png",
+    tags: ["Productivity", "Modeling", "Paid", "Australia", "New Zealand"]
+  },
+  {
+    name: "Electrical",
+    company: "Central Innovation",
+    description: "Easily place and align electrical symbols with the Ci Electrical Tool. Set your desired elevation, and the tool will intelligently rotate and position symbols to align with your walls when placed.",
+    price: "Paid",
+    link: "https://centralinnovation.com/aec/productivity/ci-tools",
+    thumbnail: "https://cglcadimage.blob.core.windows.net/emailmedia/logos/elec_400x250.png",
+    tags: ["Productivity", "Modeling", "Paid", "Australia", "New Zealand"]
+  },
+  {
+    name: "Fitout",
+    company: "Central Innovation",
+    description: "Quickly and easily fit out rooms by selecting type, setting parameters, and placing all elements instantly",
+    price: "Paid",
+    link: "https://centralinnovation.com/aec/productivity/ci-tools",
+    thumbnail: "https://cglcadimage.blob.core.windows.net/emailmedia/logos/fitout_400x250.png",
+    tags: ["Productivity", "Modeling", "Paid", "Australia", "New Zealand"]
+  },
+  {
+    name: "Keynotes",
+    company: "Central Innovation",
+    description: "Keynotes streamlines the annotation process, offering quick and accurate note placement by creating a customizable database of notes. This database can be built from scratch or imported, allowing notes to automatically attach to elements based on their attributes.",
+    price: "Paid",
+    link: "https://centralinnovation.com/aec/productivity/ci-tools",
+    thumbnail: "https://cglcadimage.blob.core.windows.net/emailmedia/logos/keyn_400x250.png",
+    tags: ["Productivity", "Modeling", "Paid", "Australia", "New Zealand"]
+  },
+  {
+    name: "Launchpad",
+    company: "Central Innovation",
+    description: "The Ci Launchpad is where new tool ideas begin, from proof-of-concept functions to early prototypes. Here, you can explore our latest developments and share your feedback!",
+    price: "Paid",
+    link: "https://centralinnovation.com/aec/productivity/ci-tools",
+    thumbnail: "https://cglcadimage.blob.core.windows.net/emailmedia/logos/launch_400x250.png",
+    tags: ["Productivity", "Modeling", "Free", "Australia", "New Zealand"]
+  },
+  {
+    name: "Metadata",
+    company: "Central Innovation",
+    description: "With the Ci Metadata tool, manage model element properties and classifications conveniently using a palette interface, eliminating the need to navigate through dialog boxes.",
+    price: "Paid",
+    link: "https://centralinnovation.com/aec/productivity/ci-tools",
+    thumbnail: "https://cglcadimage.blob.core.windows.net/emailmedia/logos/meta_400x250.png",
+    tags: ["Productivity", "Modeling", "Paid", "Australia", "New Zealand"]
+  },
+  {
+    name: "Quantities",
+    company: "Central Innovation",
+    description: "CI Quantities streamlines the calculation, scheduling, and export of bill of quantities from your live Archicad project model.",
+    price: "Paid",
+    link: "https://centralinnovation.com/aec/productivity/ci-tools",
+    thumbnail: "https://cglcadimage.blob.core.windows.net/emailmedia/logos/quants_400x250.png",
+    tags: ["Productivity", "Modeling", "Paid", "Australia", "New Zealand"]
+  },
+  {
+    name: "Sites",
+    company: "Central Innovation",
+    description: "Ideal for the early stages of the design process, this tool simplifies the exploration of design options in the context of your site.",
+    price: "Paid",
+    link: "https://centralinnovation.com/aec/productivity/ci-tools",
+    thumbnail: "https://cglcadimage.blob.core.windows.net/emailmedia/logos/sites_400x250.png",
+    tags: ["Productivity", "Modeling", "Paid", "Australia", "New Zealand"]
+  },
+  {
+    name: "Stairs",
+    company: "Central Innovation",
+    description: "Create stairs with complete flexibility and ease directly within your model.",
+    price: "Paid",
+    link: "https://centralinnovation.com/aec/productivity/ci-tools",
+    thumbnail: "https://cglcadimage.blob.core.windows.net/emailmedia/logos/stair_400x250.png",
+    tags: ["Productivity", "Modeling", "Paid", "Australia", "New Zealand"]
+  },
+  {
+    name: "Structural",
+    company: "Central Innovation",
+    description: "Structural Tool merges the functionalities of Ci Extrusions and Slab Edges tools, offering a powerful suite of features to bend, split, rotate, align, and modify elements within your Archicad model. ",
+    price: "Paid",
+    link: "https://centralinnovation.com/aec/productivity/ci-tools",
+    thumbnail: "https://cglcadimage.blob.core.windows.net/emailmedia/logos/struc_400x250.png",
+    tags: ["Productivity", "Modeling", "Paid", "Australia", "New Zealand"]
+  },
+  {
+    name: "Time Tracker",
+    company: "Central Innovation",
+    description: "A great tool to help you track cost and time spent. This tools takes out the pain of calculating the actual time spent on a project by automatically tracking the time spent using Archicad while working on a project.",
+    price: "Paid",
+    link: "https://centralinnovation.com/aec/productivity/ci-tools",
+    thumbnail: "https://cglcadimage.blob.core.windows.net/emailmedia/logos/time_400x250.png",
+    tags: ["Productivity", "Modeling", "Paid", "Australia", "New Zealand"]
+  },
+  {
+    name: "Transformer",
+    company: "Central Innovation",
+    description: "Introducing the new Ci Transformer tool in Archicad 24, a game-changing solution for mirroring entire projects with just one click.",
+    price: "Paid",
+    link: "https://centralinnovation.com/aec/productivity/ci-tools",
+    thumbnail: "https://cglcadimage.blob.core.windows.net/emailmedia/logos/transf_400x250.png",
     tags: ["Productivity", "Modeling", "Paid", "Australia", "New Zealand"]
   },
   {
