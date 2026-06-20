@@ -1,0 +1,10 @@
+{
+  "redirects": [
+    {
+      "source": "/",
+      "has": [{ "type": "host", "value": "archicad-addons.vercel.app" }],
+      "destination": "https://www.architools.net/addon-explorer",
+      "permanent": false
+    }
+  ]
+}
